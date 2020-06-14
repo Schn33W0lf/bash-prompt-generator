@@ -1256,7 +1256,7 @@ const PromptElement = {
    * A bell character.
    */
   BELL: {
-    name: 'Bell', char: '\\a', printable: false, description: 'A bell character.', preview: '',
+    name: 'Bell', char: '\\a', printable: false, description: 'A bell character.', preview: '␇',
   },
   /**
    * The basename of the shell’s terminal device name.
